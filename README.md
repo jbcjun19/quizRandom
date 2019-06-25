@@ -1,4 +1,4 @@
-# This program will not run. Find the errors
+# This program will not run. Please find the errors - there are 10 in total! (or 11 depending on how you count them)
 
 
     package com.company;
