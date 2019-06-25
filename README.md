@@ -1,5 +1,4 @@
-# This program will not run. Please find the errors - there are 10 in total! (or 11 depending on how you count them)
-
+# This program will not run. Please find the errors
 
     package com.company;
     import java.util.Random;
